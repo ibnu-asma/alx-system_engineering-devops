@@ -4,3 +4,4 @@
 3-new_owner script file is created to change the owner o f the file
 4-empty script file to create empty file
 5-execute script file to give execution permission to the owner
+6-multiple_permissions script file created to give execusion permission for owner and group user and read permisson for others
