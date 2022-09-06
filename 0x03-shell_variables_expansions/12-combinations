@@ -1,2 +1,2 @@
 #!/bin/bash
- echo -e "\r"{{a..n}{a..z}"\r",o{a..n}"\r",o{p..z}"\r",{p..z}{a..z}"\r"}
+ echo -e "\r"{{a..n}{a..z}"\n",o{a..n}"\n",o{p..z}"\n",{p..z}{a..z}"\n"}
